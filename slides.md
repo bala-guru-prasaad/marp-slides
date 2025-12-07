@@ -100,11 +100,13 @@ Prepared by: **24f3003595@ds.study.iitm.ac.in**
 
 ---
 
+---
+
 <!--
-_backgroundImage: url('Screenshot 2025-05-26 143930.png')
-_backgroundSize: cover
+backgroundImage: url(aaaaa.png)
+backgroundSize: cover
 -->
 
-# Background Slide Example
+# Background Slide
 
-This slide has a background image!
+This slide uses your uploaded image as a full-screen background.
