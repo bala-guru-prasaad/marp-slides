@@ -96,3 +96,15 @@ Inline math example: $O(n \log n)$
 Prepared by: **24f3003595@ds.study.iitm.ac.in**
 
 ---
+
+
+---
+
+<!--
+_backgroundImage: url('Screenshot 2025-05-26 143930.png')
+_backgroundSize: cover
+-->
+
+# Background Slide Example
+
+This slide has a background image!
